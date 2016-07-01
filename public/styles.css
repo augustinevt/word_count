@@ -1,36 +1,52 @@
 .container {
-
-  margin-top: 25%;
+  margin-top: 20%;
 }
-
-
-
 
 .circle-container {
   margin:auto;
   border: solid 15px;
   border-radius: 50%;
   text-align: center;
-  height: 70vw;
-  width: 70vw;
+  height: 50vw;
+  width: 50vw;
   overflow: auto;
-
 }
 
-textarea, button {
-  /*background-color: blue;*/
-  width: 50%;
+input, textarea, button {
   border: solid;
+  border-radius: 30px;
+  padding: 20px;
+}
 
+input, textarea, button :focus {
+  border: solid;
+  border-radius: 30px;
+  padding: 20px;
+  outline: none;
+}
+
+textarea {
+  width: 50%;
 }
 
 input{
-  /*background-color: blue;*/
   width: 20%;
-  border: solid;
-
+  text-align: center;
+  font-size: 1em;
 }
 
 label {
-    margin-top: 5%;
+  margin-top: 5%;
+}
+
+button {
+  margin-top: 5%;
+}
+button:focus {
+  margin-top: 5%;
+  outline: none;
+}
+
+body {
+  text-align: center;
 }
