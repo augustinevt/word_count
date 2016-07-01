@@ -1,0 +1,36 @@
+.container {
+
+  margin-top: 25%;
+}
+
+
+
+
+.circle-container {
+  margin:auto;
+  border: solid 15px;
+  border-radius: 50%;
+  text-align: center;
+  height: 70vw;
+  width: 70vw;
+  overflow: auto;
+
+}
+
+textarea, button {
+  /*background-color: blue;*/
+  width: 50%;
+  border: solid;
+
+}
+
+input{
+  /*background-color: blue;*/
+  width: 20%;
+  border: solid;
+
+}
+
+label {
+    margin-top: 5%;
+}
