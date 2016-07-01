@@ -10,7 +10,7 @@ This application takes text and a target word as input and tells you the number 
 
 ## Setup/Installation Requirements
 
-* Visit this [link](http://augustinevt.github.io/ping-pong)
+* Visit this [link](https://dudley-poppy-34206.herokuapp.com/)
 * Or go to [github](https://github.com/augustinevt/word_count) and clone the repository
 * Make sure you have all the gem dependencies bundled before running the app locally!
 
